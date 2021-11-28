@@ -25,7 +25,6 @@
 #include "turtlebot_vacuum/walker.h"
 
 int main(int argc, char **argv) {
-
   // Initializing a node
   ros::init(argc, argv, "roomba_nav");
   // Creating a object from the header
@@ -34,6 +33,5 @@ int main(int argc, char **argv) {
   ros::spin();
 
   return 0;
-
 }
 
