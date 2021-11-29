@@ -55,7 +55,8 @@ and use the following command to replay the rosbag
 ```
 rosbag play src/turtlebot_vacuum/result/recording.bag 
 ```
+A short recorded bag has been added to the results folder, a longer recording can be accessed via this link:
+[Rosbag Recording](https://drive.google.com/file/d/1Ke8aKBSZ-rgbdOsWO7zNIwCD4z7KKQwM/view?usp=sharing)
 
 ### Using Releases
 If the the repository is downloaded as a zip via `Week13_HW_Release`, extract the file to `<your_ros_workspace>/src` (eg. `catkin_ws/src`) and rename the folder to `turtlebot_vacuum`
-
