@@ -14,7 +14,7 @@ This repository contains a ROS C++ program that modifies the behavior of turtleb
 
 First clone the repository
 ```
-https://github.com/pratik-a99/turtlebot_vacuum 
+git clone https://github.com/pratik-a99/turtlebot_vacuum 
 ```
 
 ### Adding it to ROS workspace
