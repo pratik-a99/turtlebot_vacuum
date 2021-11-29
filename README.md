@@ -1,4 +1,4 @@
-# turtlebot_vacuum# turtlebot_vacuum
+# turtlebot_vacuum
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](LICENSE.md)
 
 This repository contains a ROS C++ program that modifies the behavior of turtlebot3 to behave like a roomba. A launch file is included, which can also record rosbag.
